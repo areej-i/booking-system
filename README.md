@@ -6,4 +6,4 @@ The Library has rooms that students may book and use. A student may request a ce
 
 Please note that there is no GUI associated with this project. 
 
-To run: type make into the terminal containing the project folder, and type make to compile. Type ./a3 to run.
+To run: type make into the terminal containing the project folder, and type make to compile. Then type ./a1 to run.
